@@ -1,5 +1,5 @@
 
-![Introducing](https://github.com/silverblurtype/silverblurtype/assets/163983174/abf0e1a5-d165-4e39-905c-e22016bf969a0)
+![Introducing](https://github.com/silverblurtype/blade-rounded/assets/163983174/d9b5beea-47bf-447f-a74a-43481d65a103)
 
 ### Typeface collection: 
 [Skate blade](https://github.com/silverblurtype/skateblade) | [Elounda](https://github.com/silverblurtype/elounda) | [Abstante](https://github.com/silverblurtype/abstante) | [Blade rounded](https://github.com/silverblurtype/bladerounded)
